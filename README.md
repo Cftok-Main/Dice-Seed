@@ -7,5 +7,5 @@ Even number of dice means 1. Odd number of dice means 0.
 
 The worksheet converts it into seedwords.
 
-24. word must be taken from seedpicker. Save the Seedpicker-page onto your computer and use it offline.
-25. Adresses and keys can be extracted wit iancoleman bip39-mnemonic code converter. Save the page and use it offline.
+The 24th word must be taken from seedpicker. Save the Seedpicker-page onto your computer and use it offline.
+Adresses and keys can be extracted wit iancoleman bip39-mnemonic code converter. Save the page and use it offline.
