@@ -1,5 +1,6 @@
 # Dice-Seed
 Dice your own seed.
+Short instructions in file.
 
 Roll four dice to get the first four binary numbers for the table.
 
