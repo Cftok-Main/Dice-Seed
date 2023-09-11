@@ -2,6 +2,8 @@
 Dice your own seed.
 Short instructions in file.
 
+This is the first 1.0 Release:  https://github.com/Cftok-Main/Dice-Seed/releases/tag/Dice-Seed-Distribution-v1.0
+
 Roll four dice to get the first four binary numbers for the table.
 
 Even number of dice means 1. Odd number of dice means 0.
