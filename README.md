@@ -2,6 +2,7 @@
 Dice your own seed.
 Short instructions in file.
 
+Dice-Seed with integrated check of Distribution 
 This is the first 1.0 Release:  https://github.com/Cftok-Main/Dice-Seed/releases/tag/Dice-Seed-Distribution-v1.0
 
 Roll four dice to get the first four binary numbers for the table.
